@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Floor
+  - Killbox
+  - Enemy
+  - Elevator
+  - PlayerProjectile
+  - DoubleJump
+  - Stapler
+  - Coffee
+  - Pencil
+  - Soda
+  - Cooler
+  - Weapon
+  - End Level
+  - DoublePickUp
+  - Begin Level
+  - Explosion
+  - EnemyProjectile
+  - Cardboard
+  - AudioManager
+  - Breakable
+  - Main HUD
+  - AmmunitionBar
+  - CoyoteTime
+  - GameManager
+  - Shield
+  - Live
+  - Health
+  - GameOver
+  - MenuOption
+  - Boss
+  - LoadingScreen
+  - SaveScreen
+  - Firepoint
+  - MovingPlat
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - EnemyTerrainCollider
+  - Terrain
+  - Enemy Navigation
+  - EnemyBullet
+  - PlayerBullet
+  - Enemy
+  - Player
+  - Shield
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
